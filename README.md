@@ -374,14 +374,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **pypfopt**: Portfolio optimization library
 - **Plotly**: Interactive visualization library
 
-## 📞 Support
-
-For support and questions:
-
-- 📧 Email: [your-email@domain.com]
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/portfolio_scanner_final_v3/issues)
-- 📖 Documentation: [Wiki](https://github.com/yourusername/portfolio_scanner_final_v3/wiki)
-
 ## 🔮 Future Enhancements
 
 - [ ] Real-time portfolio monitoring
@@ -397,4 +389,3 @@ For support and questions:
 
 **⭐ If you find this project useful, please give it a star on GitHub!**
 
-Made with ❤️ for the financial community
