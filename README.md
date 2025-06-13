@@ -300,7 +300,7 @@ flake8 src/
 - **Black-Litterman**: Bayesian approach with market views
 - **Custom Constraints**: Sector limits, position sizing
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -352,7 +352,7 @@ pip install -r requirements.txt
 - **Beta**: 0.95
 - **Correlation with S&P 500**: 0.73
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please see our contributing guidelines:
 
@@ -362,11 +362,11 @@ We welcome contributions! Please see our contributing guidelines:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **FinanceDatabase**: Comprehensive financial database
 - **yfinance**: Yahoo Finance API wrapper
@@ -374,7 +374,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **pypfopt**: Portfolio optimization library
 - **Plotly**: Interactive visualization library
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Real-time portfolio monitoring
 - [ ] Mobile application
